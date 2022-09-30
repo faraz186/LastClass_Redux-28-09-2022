@@ -1,0 +1,41 @@
+h1{
+  text-align: center;
+  font-size: 45px;
+  color: cadetblue;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3{
+  text-align: center;
+  font-size: 30px;
+  color:tomato;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.input{
+  margin-left: 550px;
+  padding: 20px;
+  width: 3%;
+  margin-top: 40px;
+  border-radius: 10px;
+  border: 3px solid black;
+  font-size: 35px;
+  text-align: center;
+}
+
+.increment{
+  font-size: 65px;
+  cursor: pointer;
+  position: relative;
+  bottom: -10px;
+  left: 30px;  
+}
+
+.decrement{
+  font-size: 65px;
+
+  position: relative;
+  left: 520px;
+  cursor: pointer;
+  bottom: -10px;
+}
